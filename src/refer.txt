@@ -1,0 +1,7 @@
+1) Customize Footer.
+2) Customize Contact and fix bugs.
+
+/* Later On */
+
+4) Make Modifications time to time.
+5) Add an Acheivements Page.
